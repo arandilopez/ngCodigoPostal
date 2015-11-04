@@ -1,0 +1,28 @@
+{
+  "name": "ng-codigopostal",
+  "version": "1.0.0",
+  "authors": [
+    "Arandi Lopez <arandilopez.93@gmail.com>"
+  ],
+  "description": "Angular service para obtener los datos de colonias, municipios y estado de un codigo postal de mexico. Powered bt 789.mx",
+  "main": "codigopostal.js",
+  "keywords": [
+    "angular",
+    "codigo",
+    "postal",
+    "mexico",
+    "form",
+    "formulario"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.3"
+  }
+}
