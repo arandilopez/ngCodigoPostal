@@ -9,11 +9,6 @@ Servicio de angular para obtener informacion sobre: colonias, municipio y estado
 bower install --save ngcodigopostal
 ```
 
-**NPM**
-```
-npm install --save ngcodigopostal
-```
-
 **Instalación**
 ```
 <script src="/path/to/codigopostal.js"></script>
