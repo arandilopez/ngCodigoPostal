@@ -37,8 +37,10 @@ app.controller(['$scope', 'codigoPostal', function ($scope, codigoPostal) {
 
 }]);
 ```
+> Asentamientos son colonias.
+
 ## ¿Cómo funciona?
-Simplemente hace una peticion con el dato del codigo postal a un servicio web publico soportado por [789.mx](http://789.mx) a http://sepomex.789.mx
+Simplemente hace una peticion con el dato del codigo postal a un servicio web publico soportado por (#ThanksTo) [789.mx](http://789.mx) en http://sepomex.789.mx
 
 ### Respuesta de ejemplo:
 
