@@ -64,6 +64,12 @@ Simplemente hace una peticion con el dato del codigo postal a un servicio web pu
 }
 ```
 
+### Docs
+
+#### Service: codigoPostal
+| Function | Params | Returns |
+| :------------- | :------------- | :-------- |
+| get | String: codigo_postal | Promise |
 ## Licencia
 
 MIT
